@@ -3,9 +3,9 @@ entries:
   efk:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-15T09:39:12.35887866-04:00
+    created: 2018-08-15T09:50:55.480468895-04:00
     description: A Helm chart for Kubernetes
-    digest: 4a7899ec8a4d2f771c21cbbd0239273a462759f9862a35921198929914a52bce
+    digest: efae19e3d43800e21e3edb7bdc86bf8dce1995a6ca8da911b9f6e49446fe51d6
     name: efk
     urls:
     - efk-6.1.3.tgz
@@ -13,9 +13,9 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 6.1.3
-    created: 2018-08-15T09:39:12.359090066-04:00
+    created: 2018-08-15T09:50:55.480770412-04:00
     description: A Helm chart for Elasticsearch cluster
-    digest: b3cbc0f369abfa58123f2388665e128a413b0e0fe778ea38e2d27fea15cd07d6
+    digest: ff93ea8fee34f498e07e012d9a3ad9bd105deef9299ea25f0507bea84798de27
     maintainers:
     - name: nsheppard
     name: elasticsearch
@@ -27,7 +27,7 @@ entries:
   elasticsearch-operator:
   - apiVersion: v1
     appVersion: 6.1.3
-    created: 2018-08-15T09:39:12.359641726-04:00
+    created: 2018-08-15T09:50:55.481049202-04:00
     description: A Helm chart for Elasticsearch operator
     digest: 5dafefe631a4701bbc03ae40d0c93295d7bd58d05970234a8b2490e78eaddd1d
     name: elasticsearch-operator
@@ -49,7 +49,7 @@ entries:
     version: 0.2.0
   kibana:
   - appVersion: 6.1.3
-    created: 2018-08-15T09:39:12.359986281-04:00
+    created: 2018-08-15T09:50:55.481404988-04:00
     description: Kibana is an open source data visualization plugin for Elasticsearch
     digest: 3a6e50c6b1231246913a45b8b0af8e8c4deda21fc4485e6577bcc95cc3636c89
     engine: gotpl
@@ -69,4 +69,4 @@ entries:
     urls:
     - kibana-6.1.3.tgz
     version: 6.1.3
-generated: 2018-08-15T09:39:12.357677324-04:00
+generated: 2018-08-15T09:50:55.477471336-04:00
